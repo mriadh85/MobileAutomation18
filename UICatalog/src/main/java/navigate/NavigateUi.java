@@ -1,6 +1,6 @@
 package navigate;
 
-import generic.Base;
+import common.Base;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 

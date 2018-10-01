@@ -1,107 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7980c419-2dc0-426d-b905-e44357be48cb" name="Default" comment="" />
+    <list default="true" id="7980c419-2dc0-426d-b905-e44357be48cb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/common/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/target/NYP-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/target/NYP-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/ButtonsPage/Buttons.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/main/java/ButtonsPage/Buttons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/ControlsPage/Controls.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/main/java/ControlsPage/Controls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/TextFieldsPage/TextFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/main/java/TextFieldsPage/TextFields.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/navigate/NavigateUi.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/main/java/navigate/NavigateUi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/ButtonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/ButtonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/TextFieldsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/TextFieldsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/resources/cataLogAppTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/test/resources/cataLogAppTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/target/UICatalog-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/target/UICatalog-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UICatalog/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
     <ignored path="$PROJECT_DIR$/UICatalog/target/" />
     <ignored path="$PROJECT_DIR$/NYP/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="606840500">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="java" value="33" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="33" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="788" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="788" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="SearchBar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/SearchBarPage/SearchBar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Segments.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/SegmentsPage/Segments.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TextFields.java" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/TextFieldsPage/TextFields.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="524">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TextView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/TextViewPage/TextView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Toolbar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/ToolbarPage/Toolbar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Transitions.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/TransitionsPage/Transitions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UiCatalog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/UiCatalogPage/UiCatalog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Web.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/WebPage/Web.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Controls.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/ControlsPage/Controls.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Buttons.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/ButtonsPage/Buttons.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="278">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#843#844#0" expanded="true" />
+                <element signature="e#877#878#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UICatalog/src/test/java/iPhone/TextFieldsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UICatalog/src/test/java/iPhone/ButtonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="20" column="40" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/Base.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2860">
+              <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UICatalog/src/test/resources/cataLogAppTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/UiCatalogPage/UiCatalog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,6 +167,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -122,11 +177,18 @@
         <option value="$PROJECT_DIR$/UICatalog/pom.xml" />
         <option value="$PROJECT_DIR$/NYP/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/common/Base.java" />
         <option value="$PROJECT_DIR$/UICatalog/src/main/java/AlertsPage/Alerts.java" />
         <option value="$PROJECT_DIR$/UICatalog/src/main/java/PickersPage/Picker.java" />
-        <option value="$PROJECT_DIR$/UICatalog/src/main/java/TextFieldsPage/TextFields.java" />
         <option value="$PROJECT_DIR$/UICatalog/src/main/java/UiCatalogPage/UiCatalog.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/main/java/navigate/NavigateUi.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/ButtonTest.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/ControlsTest.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/main/java/ControlsPage/Controls.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/test/resources/cataLogAppTestRunner.xml" />
+        <option value="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/TextFieldsTest.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/common/Base.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/main/java/TextFieldsPage/TextFields.java" />
+        <option value="$PROJECT_DIR$/UICatalog/src/main/java/ButtonsPage/Buttons.java" />
       </list>
     </option>
   </component>
@@ -157,53 +219,55 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="78" />
-    <option name="y" value="23" />
-    <option name="width" value="1374" />
+    <option name="x" value="151" />
+    <option name="y" value="36" />
+    <option name="width" value="1373" />
     <option name="height" value="837" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -211,68 +275,52 @@
               <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="NYP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
-              <item name="NYP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="NYP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
-              <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AlertsPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -280,44 +328,17 @@
               <item name="ButtonsPage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ImgesPage" type="462c0819:PsiDirectoryNode" />
+              <item name="ControlsPage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
-              <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PickersPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
-              <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SearchBarPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
-              <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SegmentsPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -325,64 +346,47 @@
               <item name="TextFieldsPage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
-              <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="TextViewPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
-              <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ToolbarPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
-              <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="TransitionsPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
-              <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="UiCatalogPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
-              <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="WebPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MobileAutomationJuly2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MobileAutomationJuly2018" type="462c0819:PsiDirectoryNode" />
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iPhone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="July2018MobileAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="July2018MobileAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="UICatalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538204161244" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -403,65 +407,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG./Users/riadh/IdeaProjects/July2018MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+    <configuration name="ButtonTest.testBackgroundBtn" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UICatalog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iPhone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="iPhone" />
+      <option name="MAIN_CLASS_NAME" value="iPhone.ButtonTest" />
+      <option name="METHOD_NAME" value="testBackgroundBtn" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
+    <configuration name="/Users/riadh/IdeaProjects/July2018MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UICatalog" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/UICatalog/src/test/resources/cataLogAppTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <method />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.ButtonTest.testBackgroundBtn" />
+      <item itemvalue="TestNG./Users/riadh/IdeaProjects/July2018MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/riadh/IdeaProjects/July2018MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" />
+        <item itemvalue="TestNG.ButtonTest.testBackgroundBtn" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -476,58 +497,106 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_riadh_IdeaProjects_July2018MobileAutomation_UICatalog_src_test_resources_cataLogAppTestRunner_xml - 2018.09.29 at 00h 25m 43s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/July2018MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_riadh_IdeaProjects_July2018MobileAutomation_UICatalog_src_test_resources_cataLogAppTestRunner_xml - 2018.09.29 at 00h 41m 52s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/July2018MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_riadh_IdeaProjects_July2018MobileAutomation_UICatalog_src_test_resources_cataLogAppTestRunner_xml - 2018.09.29 at 01h 03m 42s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/July2018MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_riadh_IdeaProjects_July2018MobileAutomation_UICatalog_src_test_resources_cataLogAppTestRunner_xml - 2018.09.29 at 02h 06m 25s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/July2018MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_riadh_IdeaProjects_July2018MobileAutomation_UICatalog_src_test_resources_cataLogAppTestRunner_xml - 2018.09.29 at 02h 08m 59s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/July2018MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_riadh_IdeaProjects_July2018MobileAutomation_UICatalog_src_test_resources_cataLogAppTestRunner_xml - 2018.09.29 at 02h 30m 58s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/July2018MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_riadh_IdeaProjects_July2018MobileAutomation_UICatalog_src_test_resources_cataLogAppTestRunner_xml - 2018.09.29 at 02h 38m 49s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/July2018MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_riadh_IdeaProjects_July2018MobileAutomation_UICatalog_src_test_resources_cataLogAppTestRunner_xml - 2018.09.29 at 02h 42m 21s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/July2018MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_riadh_IdeaProjects_July2018MobileAutomation_UICatalog_src_test_resources_cataLogAppTestRunner_xml - 2018.09.29 at 02h 48m 16s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/July2018MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_riadh_IdeaProjects_July2018MobileAutomation_UICatalog_src_test_resources_cataLogAppTestRunner_xml - 2018.09.29 at 02h 56m 52s.xml">
+      <configuration name="/Users/riadh/IdeaProjects/July2018MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="338" y="23" width="1374" height="837" extended-state="1" />
+    <frame x="151" y="36" width="1373" height="837" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.15502183" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2791612" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23944686" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24643126" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19731544" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32885906" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.09391435" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24267468" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32885906" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.39328858" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.09391435" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UICatalog/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NYP/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="34" column="23" selection-start-line="17" selection-start-column="7" selection-end-line="34" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -538,115 +607,232 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/Base.java">
+    <entry file="file://$PROJECT_DIR$/UICatalog/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2787">
-          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#7921#7922#0" expanded="true" />
-            <element signature="e#7946#7947#0" expanded="true" />
-            <element signature="e#7993#7994#0" expanded="true" />
-            <element signature="e#8050#8051#0" expanded="true" />
-            <element signature="e#8110#8111#0" expanded="true" />
-            <element signature="e#8141#8142#0" expanded="true" />
-            <element signature="e#8434#8435#0" expanded="true" />
-            <element signature="e#8499#8500#0" expanded="true" />
-            <element signature="e#8603#8611#0" expanded="true" />
-            <element signature="e#9708#9709#0" expanded="true" />
-            <element signature="e#9752#9753#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/AlertsPage/Alerts.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="345">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/WebPage/Web.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/ImgesPage/Images.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/PickersPage/Picker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/SearchBarPage/SearchBar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/SegmentsPage/Segments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/TextFieldsPage/TextFields.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/TextViewPage/TextView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/ToolbarPage/Toolbar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="100">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/TransitionsPage/Transitions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="100">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/UiCatalogPage/UiCatalog.java">
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/ToolbarPage/Toolbar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/WebPage/Web.java">
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/TextViewPage/TextView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="100">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/SegmentsPage/Segments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/PickersPage/Picker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/java/iPhone/PickerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.6/testng-6.9.6.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/navigate/NavigateUi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/3.1.0/java-client-3.1.0.jar!/io/appium/java_client/ScrollsTo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/java/iPhone/ControlsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/ControlsPage/Controls.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="140">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="4" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/java/iPhone/AlertsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/3.1.0/java-client-3.1.0.jar!/io/appium/java_client/DefaultGenericMobileDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/AlertsPage/Alerts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/SearchBarPage/SearchBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/TextFieldsPage/TextFields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/java/iPhone/TextFieldsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2860">
+          <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/UiCatalogPage/UiCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/java/iPhone/ButtonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/ButtonsPage/Buttons.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="278">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/resources/cataLogAppTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="41" />
         </state>
       </provider>
     </entry>
