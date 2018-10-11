@@ -12,6 +12,7 @@
         <module>Generic</module>
         <module>UICatalog</module>
         <module>NYP</module>
+        <module>IMDb</module>
     </modules>
 
     <dependencyManagement>

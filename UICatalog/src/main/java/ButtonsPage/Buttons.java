@@ -24,13 +24,10 @@ public class Buttons extends Base{
     private WebElement backBtn;
 
     public void clickOnbackgroundBtn(){
-
         backgroundImageBtn.click();
-
     }
 
     public void clickOnImageBtn(){
-
         imageBtn.click();
     }
 

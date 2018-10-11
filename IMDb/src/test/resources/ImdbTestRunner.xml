@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Android test suite on Real Device for IMDb">
+
+    <parameter name="OS" value="Android"/>
+    <parameter name="appType" value="Phone"/>
+    <parameter name="deviceType" value="RealDevice"/>
+    <parameter name="deviceName" value="Redmi 4X"/>
+    <parameter name="version" value="7.1.2"/>
+
+    <test name="Go to Home page" preserve-order="true">
+        <classes>
+            <!--<class name="androidphones.TestHomePage"/>-->
+            <class name="androidphones.TestLoginPage"/>
+            <!--<class name="iPhone.PickerTest"/>-->
+            <!--<class name="iPhone.AlertsTest"/>-->
+            <!--<class name="iPhone.ControlsTest"/>-->
+        </classes>
+    </test>
+</suite>
