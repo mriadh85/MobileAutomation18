@@ -15,6 +15,11 @@
             <!--<class name="iPhone.PickerTest"/>-->
             <!--<class name="iPhone.AlertsTest"/>-->
             <!--<class name="iPhone.ControlsTest"/>-->
+            <!--<class name="iPhone.TestImagePage"/>-->
+            <!--<class name="iPhone.TestSegmentPage"/>-->
+            <!--<class name="iPhone.TestWebPage"/>-->
+            <!--<class name="iPhone.TestToolbarPage"/>-->
+            <!--<class name="iPhone.TestTransitionsPage"/>-->
         </classes>
     </test>
 </suite>

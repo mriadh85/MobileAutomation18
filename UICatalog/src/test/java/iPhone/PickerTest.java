@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
 /**
- * Created by Bilal on 24-01-2017.
+ * Needs to be checked
  */
 public class PickerTest extends Base {
     String[] pickerName = {"Chris Armstrong","3"};
@@ -25,7 +25,7 @@ public class PickerTest extends Base {
         picker().getUIPicker();//.selectPickerTwoWheels("Chris Armstrong","3");
         scrollKeys(ad, pickerName,"//UIAPicker[1]");
     }
-    //@Test
+    @Test
     public void testDatePicker(){
         UiCatalog uiCatalog = PageFactory.initElements(ad,UiCatalog.class);
         uiCatalog.getPickers();

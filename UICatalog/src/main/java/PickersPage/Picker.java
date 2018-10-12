@@ -15,7 +15,11 @@ public class Picker extends Base {
         //scrollKeys(ad, new String[]{name,number});
     }
     @FindBy(xpath = "//UIAApplication[1]/UIAWindow[2]/UIAToolbar[1]/UIASegmentedControl[1]/UIAButton")
+    List<WebElement> segmentControl1 = new ArrayList<WebElement>();
+
+    @FindBy(xpath = "//XCUIElementTypeToolbar[@name=\"Toolbar\"]/XCUIElementTypeSegmentedControl")
     List<WebElement> segmentControl = new ArrayList<WebElement>();
+
 
     public void getUIPicker(){
         segmentControl.get(0).click();
@@ -29,3 +33,4 @@ public class Picker extends Base {
 
 
 }
+

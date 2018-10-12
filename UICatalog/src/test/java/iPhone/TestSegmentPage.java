@@ -1,6 +1,6 @@
 package iPhone;
 
-import ControlsPage.Controls;
+import SegmentsPage.Segments;
 import UiCatalogPage.UiCatalog;
 import common.Base;
 import org.openqa.selenium.support.PageFactory;
@@ -8,27 +8,27 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import reporting.TestLogger;
 
-public class ControlsTest extends Base {
+public class TestSegmentPage extends Base {
     @BeforeMethod
-    public Controls controls() {
+    public Segments segments() {
         UiCatalog uiCatalog = PageFactory.initElements(ad, UiCatalog.class);
-        uiCatalog.getControls();
-        return PageFactory.initElements(ad, Controls.class);
+        uiCatalog.getSegments();
+        return PageFactory.initElements(ad, Segments.class);
     }
 
-    @Test(priority = 1, enabled = false)
-    public void testSwitch(){
+    @Test
+    public void testUiCheckBtn(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        controls().clickonSwitch();
+        segments().clickOnCheckBtn();
     }
-    @Test(priority = 2, enabled = false)
-    public void testStandardSlider(){
+    @Test
+    public void testUiSearchBtn(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        controls().actionOnStandardSlider();
+        segments().clickOnSearchBtn();
     }
-    @Test(priority = 3, enabled = true)
-    public void testCustomSlider(){
+    @Test
+    public void testUiToolsBtn(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        controls().actionOnCustomSlider();
+        segments().clickOnToolsBtn();
     }
 }
